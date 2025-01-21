@@ -1,0 +1,5 @@
+/build
+/.vscode
+/out
+/temp_installs
+vcpkg.json
